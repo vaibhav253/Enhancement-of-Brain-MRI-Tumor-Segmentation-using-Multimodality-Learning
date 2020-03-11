@@ -5,7 +5,6 @@ Brain MRI tumor segmentation with new approch of fusion of four modalities as gi
 # Proposed Method
 ![FLow](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Segmentation%20Flow/Flow%20Diagram.png)
 
-
 The main porpose is Brain  tumor  MRI segmentation using  U-Net  architecture. As there are four different  modalities  for  the  given  namely,  T1,  T1ce,  T2  and FLAIR modalities. The four modalities are fused in to one input and converted into numpy array. Fusion of inputs shown in below figure,
 ![Fusion of Inputs](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Segmentation-Flow/FUSION_n%20(3).png)
 # Data Preprocess
