@@ -12,12 +12,5 @@ In the data preporcessing, the first step is to resizing the image size 240X240 
 # Dataset
 Whole dataset you can download from: [MICCAI 2019](https://www.med.upenn.edu/sbia/brats2018.html)
 
-Download Numpy array of each modalities from here
-1)Flair
-https://drive.google.com/open?id=1m_A_Z36pF3u0MhSlMkWBxFLhOgl0e_01
+Download Numpy array of each modalities and Fused Images from here: [Array](https://drive.google.com/open?id=1OPy6Mk4AVp9B7BIvr7C0h8nTtofd_vF0)
 
-2)T1
-# T2
-# T1CE
-# Label_all
-# Label_Core
