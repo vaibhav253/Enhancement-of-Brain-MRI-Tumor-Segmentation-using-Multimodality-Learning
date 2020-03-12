@@ -14,3 +14,7 @@ Whole dataset you can download from: [Brats 2019](https://www.med.upenn.edu/sbia
 
 Download Numpy array of each modalities and Fused Images from: [Data Array](https://drive.google.com/open?id=1OPy6Mk4AVp9B7BIvr7C0h8nTtofd_vF0)
 
+# Result
+Fused input segmentation dice coefficient 0.9128 and segmented image shown below,
+![Result](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Results/Fused%20(2).png)
+
