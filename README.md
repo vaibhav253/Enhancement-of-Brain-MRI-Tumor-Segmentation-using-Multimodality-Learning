@@ -9,3 +9,14 @@ The main porpose is Brain  tumor  MRI segmentation using  U-Net  architecture. A
 ![Fusion of Inputs](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Segmentation%20Flow/Input%20Fusion.png)
 # Data Preprocess
 In the data preporcessing, the first step is to resizing the image size 240X240 into 192X192 according the U-Net architecture. The second step is removing the unncessary slices. So removed the first 30 and last 35 slices and selecting only middle 90 slices.
+# Dataset
+Whoel Dataset You can Download from: [MICCSI 2019](https://www.med.upenn.edu/sbia/brats2018.html)
+Download Numpy array of each modalities from here
+# Flair
+https://drive.google.com/open?id=1m_A_Z36pF3u0MhSlMkWBxFLhOgl0e_01
+
+# T1
+# T2
+# T1CE
+# Label_all
+# Label_Core
