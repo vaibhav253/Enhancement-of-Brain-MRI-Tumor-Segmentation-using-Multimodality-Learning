@@ -10,7 +10,7 @@ The main porpose is Brain  tumor  MRI segmentation using  U-Net  architecture. A
 # Data Preprocess
 In the data preporcessing, the first step is to resizing the image size 240X240 into 192X192 according the U-Net architecture. The second step is removing the unncessary slices. So removed the first 30 and last 35 slices and selecting only middle 90 slices.
 # Dataset
-Whole dataset you can download from: [MICCAI 2019](https://www.med.upenn.edu/sbia/brats2018.html)
+Whole dataset you can download from: [Brats 2019](https://www.med.upenn.edu/sbia/brats2018.html)
 
 Download Numpy array of each modalities and Fused Images from: [Data Array](https://drive.google.com/open?id=1OPy6Mk4AVp9B7BIvr7C0h8nTtofd_vF0)
 
