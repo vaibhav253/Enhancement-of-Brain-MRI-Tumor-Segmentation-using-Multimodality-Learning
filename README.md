@@ -27,6 +27,6 @@ For full source code Contact from any emails givan below
 patelvaibhav300@gmail.com
 
 apurvapandya7@gmail.com
-# Refrence
+# Reference
 U-Net source code from:[https://github.com/polo8214/Brain-tumor-segmentation-using-deep-learning/blob/master/BRATS2015.py](https://github.com/polo8214/Brain-tumor-segmentation-using-deep-learning/blob/master/BRATS2015.py)
 
