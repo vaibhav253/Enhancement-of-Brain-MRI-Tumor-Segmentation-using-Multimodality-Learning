@@ -18,7 +18,7 @@ Download Numpy array of each modalities and Fused Images from: [Data Array](http
 Fused input segmentation dice coefficient 0.9128 and segmented image shown below,
 [Result](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Results/Fused%20(2).png)
 
-# Source Code & Steps
+# Source Code
 For Fusion [Fusion](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Fusion/Fusion.ipynb)
 
 For full source code Contact from any emails givan below
