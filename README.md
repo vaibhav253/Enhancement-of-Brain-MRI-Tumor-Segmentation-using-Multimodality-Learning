@@ -20,10 +20,15 @@ Fused input segmentation dice coefficient 0.9057 and segmented image shown below
 ![Result](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Results/Fused%20(2).png)
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Modalities                  | Dice Coef.    |
+| --------------------------- | ------------- |
+| Flair                       | 0.6796        |
+| T1                          | 0.6336        |
+| T2                          | 0.6891        |
+| T1CE                        | 0.5752        |
+| Embededd(Flair,T2)          | 0.8823        |
+| Embededd(T1,T1CE)           | 0.3994        |
+| Embededd(Flair,T2,T1,T1CE)  | 0.9057        |
 
 # Source Code
 For Fusion [Fusion](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Fusion/Fusion.ipynb)
