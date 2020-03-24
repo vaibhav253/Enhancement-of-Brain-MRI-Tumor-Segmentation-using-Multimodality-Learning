@@ -22,6 +22,7 @@ Fused input segmentation dice coefficient 0.9057 and segmented image shown below
 
 
 |Modalities|Dice Coef.|
+
 |Flair     |0.6796    |
 
 
