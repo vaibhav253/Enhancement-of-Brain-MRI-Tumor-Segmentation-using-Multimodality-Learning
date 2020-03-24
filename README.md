@@ -20,20 +20,10 @@ Fused input segmentation dice coefficient 0.9057 and segmented image shown below
 ![Result](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Results/Fused%20(2).png)
 
 
-/***
-\begin{table}[]
-\centering
-\caption{My caption}
-\label{my-label}
-\begin{tabular}{|l|l|l|}
-\hline
-\textbf{Animals} & \textbf{Sports}  & \textbf{Fruits} \\ \hline
-Cat     & Soccer     & Apple  \\ \hline
-Dog     & Basketball & Orange \\ \hline
-\end{tabular}
-\end{table}
-***/
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # Source Code
 For Fusion [Fusion](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Fusion/Fusion.ipynb)
