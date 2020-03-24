@@ -22,9 +22,8 @@ Fused input segmentation dice coefficient 0.9057 and segmented image shown below
 
 
 |Modalities|Dice Coef.|
------------------------
 |Flair     |0.6796    |
------------------------
+
 
 # Source Code
 For Fusion [Fusion](https://github.com/vaibhav253/Enhancement-of-Brain-MRI-Tumor-Segmentation-using-Multimodality-Learning/blob/master/Fusion/Fusion.ipynb)
